@@ -1,0 +1,18 @@
+[submodule "other"]
+	path = other
+	url = https://github.com/7-hallo/other.git
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/7-hallo/product-service.git
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/7-hallo/discovery.git
+[submodule "center-config"]
+	path = center-config
+	url = https://github.com/7-hallo/center-config.git
+[submodule "security"]
+	path = security
+	url = https://github.com/7-hallo/security.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/7-hallo/gateway.git

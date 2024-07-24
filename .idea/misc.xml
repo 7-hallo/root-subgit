@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/../centerconfig" />
-    <file type="web" url="file://$PROJECT_DIR$/../discoverysever" />
-    <file type="web" url="file://$PROJECT_DIR$/../gateway" />
-    <file type="web" url="file://$PROJECT_DIR$/../security" />
-  </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2b80ffce-ff82-4beb-97cd-054af1f27f38" />
   </component>
 </project>
