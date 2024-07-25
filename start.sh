@@ -5,7 +5,7 @@ if ! docker network ls | grep -q "7_hallo"; then
   docker network create 7_hallo
 fi
 
-# Chạy Docker Compose cho cả hai file
+# Chạy Docker Compose cho các file
 docker-compose -f other/keycloak/docker-compose.yml up -d
 docker-compose -f other/redis/docker-compose.yml up -d
 docker-compose -f other/postgres/docker-compose.yml up -d
