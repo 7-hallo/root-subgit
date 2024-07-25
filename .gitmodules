@@ -16,3 +16,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/7-hallo/gateway.git
+[submodule "common"]
+	path = common
+	url = https://github.com/7-hallo/common.git
