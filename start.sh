@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Kiểm tra nếu mạng 7_hallo chưa tồn tại, thì tạo nó
-if ! docker network ls | grep -q "7_hallo"; then
-  docker network create 7_hallo
+# Kiểm tra nếu mạng sevenhallo chưa tồn tại, thì tạo nó
+if ! docker network ls | grep -q "sevenhallo"; then
+  docker network create sevenhallo
 fi
 
 # Chạy Docker Compose cho các file
