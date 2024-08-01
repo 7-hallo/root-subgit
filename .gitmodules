@@ -26,3 +26,7 @@
 	path = common
 	url = https://github.com/7-hallo/common.git
 	branch = master
+[submodule "config-repo"]
+	path = config-repo
+	url = https://github.com/7-hallo/config-repo.git
+	branch = master
