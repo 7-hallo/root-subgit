@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DiscoveryApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <envs>
+      <env name="INSTANCE" value="instance2" />
+    </envs>
+    <module name="discovery.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.sevenhallo.discovery.DiscoveryApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
