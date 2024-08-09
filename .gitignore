@@ -35,3 +35,14 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+### SubProject ###
+/center-config/
+/common/
+/config-repo/
+/discovery/
+/gateway/
+/other/
+/product-service/
+/security/
